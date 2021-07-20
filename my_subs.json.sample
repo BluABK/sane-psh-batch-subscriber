@@ -1,0 +1,10 @@
+{
+  "kind": "youtube#SubscriptionListResponse",
+  "etag": "",
+  "nextPageToken": "",
+  "pageInfo": {
+    "totalResults": 0,
+    "resultsPerPage": 50
+  },
+  "items": []
+}

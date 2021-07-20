@@ -1,0 +1,4 @@
+{
+    "api_subscribe_url": "http://example.com/api/subscribe",
+    "url_maxlength": 2000
+}
